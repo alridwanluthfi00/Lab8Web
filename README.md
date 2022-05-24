@@ -282,3 +282,6 @@ Buat file baru dengan nama hapus.php
     header('location: index.php');
     ?>
 
+# Tampilan
+
+![ss-8](https://user-images.githubusercontent.com/73066008/170124609-f37f659d-b331-440d-8186-d83479b6b1d6.png)
